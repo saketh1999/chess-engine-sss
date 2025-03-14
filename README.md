@@ -4,6 +4,8 @@ A modern, feature-rich chess application built with React and TypeScript, powere
 
 [Chess for All](https://chess-engine-sss.netlify.app/)
 
+[System Diagram](https://app.eraser.io/workspace/AdFSBbK96liTZRFMfqIh?origin=share)
+
 https://github.com/user-attachments/assets/328012c7-d9ae-4270-a552-429b0591c512
 
 
